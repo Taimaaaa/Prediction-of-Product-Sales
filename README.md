@@ -20,10 +20,10 @@
 ## Key Visuals
 
 **Sales by Outlet Type**
-![Sales VS. Outlet Type](C:\Users\Reem\Downloads)
+![Sales VS. Outlet Type](sales_by_outlet_type.PNG)
 *Supermarket Type3 has the highest typical sales; Grocery Store is lowest.*
 
 **Price vs Sales**
-![Sales VS. Price ](reports/figures/price_vs_sales_bins.png)
+![Sales VS. Price ](sales_by_price.PNG)
 *Sales rise with list price, with clear price tiers.*
 
